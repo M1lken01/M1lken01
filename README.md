@@ -21,4 +21,4 @@
 
 <h3 align="left">Statistics:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=m1lken01&show_icons=true&locale=en&theme=transparent" alt="m1lken01"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1lken01&show_icons=true&locale=en&theme=transparent" alt="m1lken01"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1lken01&show_icons=true&locale=en&theme=transparent&layout=compact" alt="m1lken01"/></p>
