@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m1lken01&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="m1lken01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark&rank=S,AAA,AA,A,B,C"><img src="https://github-profile-trophy.vercel.app/?username=m1lken01" alt="m1lken01" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m1lken01&theme=onedark&rank=S,AAA,AA,A,B,C" alt="m1lken01" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
