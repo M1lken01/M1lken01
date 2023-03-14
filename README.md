@@ -4,21 +4,56 @@
 <h1 align="center">Hi, I'm A. M.</h1>
 <h3 align="center">Software Developer To Be From Hungary</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=m1lken01&label=Profile%20views&color=0e75b6&style=flat" alt="m1lken01" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=m1lken01&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="m1lken01"/></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m1lken01&theme=darkhub&no-bg=false&margin-w=20&column=8&margin-h=20&no-frame=true" alt="m1lken01" /></a> </p>
+<details open> 
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://codepen.io/m1lken01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="m1lken01" height="30" width="40" /></a>
-<a href="https://dev.to/m1lken01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="m1lken01" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/milken01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="milken01" height="30" width="40" /></a>
-<a href="https://instagram.com/m1lken01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m1lken01" height="30" width="40" /></a>
-</p>
+  <p align="left">
+    <a href="https://github.com/M1lken01/js-Minesweeper"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=M1lken01&repo=js-Minesweeper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="js-Minesweeper"></a>
+    <a href="https://github.com/M1lken01/js-Chess"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=M1lken01&repo=js-Chess&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="js-Chess"></a>
+    <a href="https://github.com/M1lken01/js-Tetris"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=M1lken01&repo=js-Tetris&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="js-Tetris"></a>
+    <a href="https://github.com/M1lken01/csgo-case-odds"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=M1lken01&repo=csgo-case-odds&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="csgo-case-odds"></a>
+    <a href="https://github.com/M1lken01/twitter.video.downloader"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=M1lken01&repo=twitter.video.downloader&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="twitter.video.downloader"></a>
+    <a href="https://github.com/M1lken01/new-year-countdown"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=M1lken01&repo=new-year-countdown&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="new-year-countdown"></a>
+  </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+  <a href="https://github.com/M1lken01?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
 
-<h3 align="left">Statistics:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=m1lken01&show_icons=true&locale=en&theme=transparent" alt="m1lken01"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1lken01&show_icons=true&locale=en&theme=transparent&layout=compact" alt="m1lken01"/></p>
+<details open> 
+  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+
+  <h3>💻 Programming Languages</h3>
+
+  <p>
+      <a href="https://github.com/search?q=user%3AM1lken01+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AM1lken01+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AM1lken01+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AM1lken01+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AM1lken01+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AM1lken01+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <a href="https://github.com/search?q=user%3AM1lken01+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AM1lken01+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AM1lken01+language%3Akotlin"><img alt="Kotlin" src="https://custom-icon-badges.demolab.com/badge/Kotlin-941398.svg?logo=cpp2&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AM1lken01+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AM1lken01+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+  </p>
+</details>
+
+<details open> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
+
+  <h3>🔥 Streak Stats</h3>
+
+  <p><img alt="M1lken01's streak" src="https://streak-stats.demolab.com/?user=M1lken01&theme=monokai-metallian&hide_border=true"/></p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <a><img alt="M1lken01's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=M1lken01&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a><img alt="M1lken01's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=M1lken01&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+  
+  <p><img alt="M1lken01's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=M1lken01&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></p>
+
+</details>
