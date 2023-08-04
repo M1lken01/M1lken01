@@ -2,12 +2,16 @@
 **M1lken01/M1lken01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h1 align="center">Hi, I'm A. M.</h1>
-<h3 align="center">Software Developer To Be From Hungary</h3>
+<h3 align="center">Software Dev</h3>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=m1lken01&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="m1lken01"/></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=m1lken01&label=Profile%20views&color=0e75b6&style=flat" alt="m1lken01"/>
+  <!--<img src="https://img.shields.io/badge/B1tches%20-0-blue" alt="Discord">-->
+  <a href="https://discord.gg/VvqrVrpSrP"><img src="https://img.shields.io/discord/769084387206758410?logo=discord" alt="chat on Discord"></a>
+</p>
 
 <details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <summary><h2>📘 My Top Projects</h2></summary>
 
   <p align="left">
     <a href="https://github.com/M1lken01/js-Minesweeper"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=M1lken01&repo=js-Minesweeper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="js-Minesweeper"></a>
@@ -22,9 +26,7 @@
 </details>
 
 <details open> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
-
-  <h3>💻 Programming Languages</h3>
+  <summary><h2>💻 Programming Languages</h2></summary>
 
   <p>
       <a href="https://github.com/search?q=user%3AM1lken01+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
@@ -42,18 +44,10 @@
 </details>
 
 <details open> 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
-
-  <h3>🔥 Streak Stats</h3>
-
-  <p><img alt="M1lken01's streak" src="https://streak-stats.demolab.com/?user=M1lken01&theme=monokai-metallian&hide_border=true"/></p>
-
-  <h3>💻 GitHub Profile Stats</h3>
+  <summary><h2>📊 GitHub Profile Stats</h2></summary>
 
   <a><img alt="M1lken01's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=M1lken01&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a><img alt="M1lken01's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=M1lken01&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
-  
-  <p><img alt="M1lken01's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=M1lken01&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></p>
 
 </details>
